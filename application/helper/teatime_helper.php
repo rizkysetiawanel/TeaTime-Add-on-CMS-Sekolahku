@@ -9,14 +9,14 @@
  *
  *
  * Fungsi : jumlah fungsi 1
- * 1. postPerTagCat = mengatur jumlah post per tag / kategori
+ * 1. postPerArcTagCat = mengatur jumlah post per arsip / tag / kategori
  */
 
 /**
- * POST PER TAG / KATEGORI
+ * POST PER ARSIP / TAG / KATEGORI
  */
 
-if (!function_exists('postPerTagCat')) {
+if (!function_exists('postPerArcTagCat')) {
 	function postPerTagCat() 
 	{
 		$CI =& get_instance();
