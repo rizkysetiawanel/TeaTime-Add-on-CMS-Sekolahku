@@ -10,5 +10,4 @@ kostumasi yang di tambahkan di helper ini:
 
 # Contact 
 
-WA: 081311243588
 FB: https://www.facebook.com/mychemicalromance.rizky
