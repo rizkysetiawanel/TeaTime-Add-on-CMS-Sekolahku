@@ -1,6 +1,8 @@
 # TEA TIME ADD ON UNTUK CMS SEKOLAHKU
 
-version : 0.1
+**Version : 0.1**
+
+**Author  : Tea Time**
 
 kostumasi sistem untuk cms sekolahku ini hanya untuk versi 2.1.3 free version jangan coba untuk yang premium.
 kare ane bukan guru/kepala sekolah/atau yang berhubungan dengan instansi sekolah jadi ane gak bisa untuk make yang premium.
