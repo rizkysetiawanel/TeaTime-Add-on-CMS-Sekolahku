@@ -1,12 +1,14 @@
-# TEA TIME HELPER UNTUK CMS SEKOLAHKU
+# TEA TIME ADD ON UNTUK CMS SEKOLAHKU
 
 version : 0.1
+kostumasi sistem untuk cms sekolahku ini hanya untuk versi 2.1.3 free version jangan coba untuk yang premium.
+kare ane bukan guru/kepala sekolah/atau yang berhubungan dengan instansi sekolah jadi ane gak bisa untuk make yang premium.
+add on ini atau kostumasi sistem untuk develop mungkin gak akan selalu update tapi insya Allah ane akan coba terus update jika
+ada versi yang terbaru dari cms nya dan juga mencoba bikin fungsi - fungsi baru lagi. 
 
-helper ini masih tahap perkembangan, dan akan di update untuk menyesuaikan dengan fitur cms sekolahku yang baru.
+# FUNGSI
+* Mengatur jumlah pemunculan posting pada halaman arsip / tag / kategori
 
-kostumasi yang di tambahkan di helper ini:
-
-1. mengatur jumlah post per tag / kategori
 
 # INSTALASI
 
@@ -25,6 +27,11 @@ kostumasi yang di tambahkan di helper ini:
   * description  = bebas kalo ane **Jumlah post per halaman (arc/tag/kategori)**
   * updated_by   = masukan id admin kalo ane **1**
   untuk field berhubungan dengan tanggal diisi bebas
+
+# BACA Dokumentasi
+
+Ane sarankan untuk baca dokumentasi pada folder dokumentasi disitu ditulis cara menerapkan fungsi - fungsi nya, jadi ane gak bakal,
+ngejelasin penerapan semua fungsi pada Readme ini.
 
 # Contact 
 WA: 081311243588 (sertakan nama nya)
