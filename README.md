@@ -8,10 +8,6 @@ kostumasi yang di tambahkan di helper ini:
 
 1. mengatur jumlah post per tag / kategori
 
-jumlah fungsi yang ditambahkan:
-
-1
-
 # Contact 
 
 WA: 081311243588
