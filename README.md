@@ -31,19 +31,13 @@ menjelaskan penerapan semua fungsi pada add on ini.**
 ## PS
 jika dalam penerapan ada error yang fatal itu diluar tanggung jawab ane, jadi ane rankan backup dulu website dan database nya
 
-## SPEC ALAT TEMPUR ANE
-* Notebook
-  Lenobo G400 limited edition
-  PROC intel pentium 2000
-  RAM 4gb
-  VGA dual vga intel 1gb memory, amd 1gb memory
-  
-* Desktop
-  PROC intel core 2 duo 3.16 ghz
-  RAM 4gb ddr 2
-  Motherboard Gigabyte ddr2
-  PSU 400watt pure
-  VGA amd radeon lupa series nya
+## DONASI
+ane ngerjain add on ini mungkin ngabisin waktu, teh manis, mungkin saja jasa ane berguna dan kalian ingin jajanin ane Teh Manis
+silahkan bisa jajanin ane ke rek ini.
+
+** BANK BCA NO.REK : 5875042308 **
+
+thanks yang udah jajanin Teh Manis hahaha. yang melakukan donasi kirim pesan ke fb ane untuk ane taro di Donatur.md nanti kalo ada yang donasi haha :P
 
 ## Contact 
 WA: 081311243588 (sertakan nama nya)
