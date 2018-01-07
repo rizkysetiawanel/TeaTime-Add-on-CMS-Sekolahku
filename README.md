@@ -31,6 +31,20 @@ menjelaskan penerapan semua fungsi pada add on ini.**
 ## PS
 jika dalam penerapan ada error yang fatal itu diluar tanggung jawab ane, jadi ane rankan backup dulu website dan database nya
 
+## SPEC ALAT TEMPUR ANE
+* Notebook
+  Lenobo G400 limited edition
+  PROC intel pentium 2000
+  RAM 4gb
+  VGA dual vga intel 1gb memory, amd 1gb memory
+  
+* Desktop
+  PROC intel core 2 duo 3.16 ghz
+  RAM 4gb ddr 2
+  Motherboard Gigabyte ddr2
+  PSU 400watt pure
+  VGA amd radeon lupa series nya
+
 ## Contact 
 WA: 081311243588 (sertakan nama nya)
 
