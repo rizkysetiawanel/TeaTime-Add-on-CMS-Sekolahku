@@ -26,7 +26,7 @@ ada versi yang terbaru dari cms nya dan juga mencoba bikin fungsi - fungsi baru 
 # BACA Dokumentasi
 
 **Baca dokumentasi pada folder dokumentasi disitu ditulis cara menerapkan fungsi - fungsi nya, jadi ane gak bakal,
-ngejelasin penerapan semua fungsi pada add on ini.**
+menjelaskan penerapan semua fungsi pada add on ini.**
 
 # Contact 
 WA: 081311243588 (sertakan nama nya)
