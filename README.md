@@ -22,19 +22,11 @@ ada versi yang terbaru dari cms nya dan juga mencoba bikin fungsi - fungsi baru 
   ```php
   $autoload['helper'] = array('url', 'html',  'antonsofyan', 'datasource', 'teatime_helper');
   ```
-* Pada database insert data pada table **settings** dengan data berikut
-  * group        = reading
-  * variable     = post_per_tag_cat
-  * default      = 6
-  * group_access = public, student, employee, administrator, super_user
-  * description  = bebas kalo ane **Jumlah post per halaman (arc/tag/kategori)**
-  * updated_by   = masukan id admin kalo ane **1**
-  untuk field berhubungan dengan tanggal diisi bebas
 
 # BACA Dokumentasi
 
-Ane sarankan untuk baca dokumentasi pada folder dokumentasi disitu ditulis cara menerapkan fungsi - fungsi nya, jadi ane gak bakal,
-ngejelasin penerapan semua fungsi pada Readme ini.
+**Baca dokumentasi pada folder dokumentasi disitu ditulis cara menerapkan fungsi - fungsi nya, jadi ane gak bakal,
+ngejelasin penerapan semua fungsi pada add on ini.**
 
 # Contact 
 WA: 081311243588 (sertakan nama nya)
