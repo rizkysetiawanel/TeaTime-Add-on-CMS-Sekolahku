@@ -35,9 +35,9 @@ jika dalam penerapan ada error yang fatal itu diluar tanggung jawab ane, jadi an
 ane ngerjain add on ini mungkin ngabisin waktu, teh manis, mungkin saja jasa ane berguna dan kalian ingin jajanin ane Teh Manis
 silahkan bisa jajanin ane ke rek ini.
 
-** BANK BCA NO.REK : 5875042308 **
+**BANK BCA NO.REK : 5875042308**
 
-thanks yang udah jajanin Teh Manis hahaha. yang melakukan donasi kirim pesan ke fb ane untuk ane taro di Donatur.md nanti kalo ada yang donasi haha :P
+thanks yang udah jajanin Teh Manis hahaha. yang melakukan donasi kirim pesan ke fb ane untuk ane taro di Donatur.md nanti kalo ada yang donasi haha :P, mari beralih ke Teh Manis dari kopi :v
 
 ## Contact 
 WA: 081311243588 (sertakan nama nya)
