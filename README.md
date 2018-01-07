@@ -9,11 +9,11 @@ kare ane bukan guru/kepala sekolah/atau yang berhubungan dengan instansi sekolah
 add on ini atau kostumasi sistem untuk develop mungkin gak akan selalu update tapi insya Allah ane akan coba terus update jika
 ada versi yang terbaru dari cms nya dan juga mencoba bikin fungsi - fungsi baru lagi. 
 
-# FUNGSI
+## FUNGSI
 * Mengatur jumlah pemunculan posting pada halaman arsip / tag / kategori
 
 
-# INSTALASI
+## INSTALASI
 
 * Paste kan file **Teatime_helper** ke folder **root_folder_website_anda/appliction/helper**
   lalu buka file **autoload.php** di **root_folder_website_anda/appliction/config/** lalu tambahkan pada **$autoload['helper']**
@@ -23,14 +23,15 @@ ada versi yang terbaru dari cms nya dan juga mencoba bikin fungsi - fungsi baru 
   $autoload['helper'] = array('url', 'html',  'antonsofyan', 'datasource', 'teatime_helper');
   ```
 
-# BACA Dokumentasi
+## BACA Dokumentasi
 
 **Baca dokumentasi pada folder dokumentasi disitu ditulis cara menerapkan fungsi - fungsi nya, jadi ane gak bakal,
 menjelaskan penerapan semua fungsi pada add on ini.**
 
-# PS
+## PS
 jika dalam penerapan ada error yang fatal itu diluar tanggung jawab ane, jadi ane rankan backup dulu website dan database nya
 
-# Contact 
+## Contact 
 WA: 081311243588 (sertakan nama nya)
+
 FB: https://www.facebook.com/mychemicalromance.rizky
