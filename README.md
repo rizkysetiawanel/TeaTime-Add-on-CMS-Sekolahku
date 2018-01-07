@@ -37,7 +37,7 @@ silahkan bisa jajanin ane ke rek ini.
 
 **BANK BCA NO.REK : 5875042308**
 
-thanks yang udah jajanin Teh Manis hahaha. yang melakukan donasi kirim pesan ke fb ane untuk ane taro di Donatur.md nanti kalo ada yang donasi haha :P, mari beralih ke Teh Manis dari kopi :v
+thanks yang udah jajanin Teh Manis hahaha. yang melakukan donasi kirim pesan ke fb ane untuk ane taro di Donatur.md nanti kalo ada yang donasi haha :P, mari beralih dari kopi ke Teh Manis :v
 
 ## Contact 
 WA: 081311243588 (sertakan nama nya)
