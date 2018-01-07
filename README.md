@@ -32,7 +32,7 @@ menjelaskan penerapan semua fungsi pada add on ini.**
 ane ngerjain add on ini mungkin ngabisin waktu, teh manis, mungkin saja jasa ane berguna dan kalian ingin jajanin ane Teh Manis
 silahkan bisa jajanin ane ke rek ini.
 
-**BANK BCA NO.REK : 5875042308**
+**BANK BCA NO.REK : 5875042308 ATAS NAMA : Rizky Setiawan**
 
 thanks yang udah jajanin Teh Manis hahaha. yang melakukan donasi kirim pesan ke fb ane untuk ane taro di Donatur.md nanti kalo ada yang donasi haha :P, mari beralih dari kopi ke Teh Manis :v.
 
