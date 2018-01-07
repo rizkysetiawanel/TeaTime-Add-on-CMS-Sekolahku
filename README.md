@@ -28,6 +28,9 @@ ada versi yang terbaru dari cms nya dan juga mencoba bikin fungsi - fungsi baru 
 **Baca dokumentasi pada folder dokumentasi disitu ditulis cara menerapkan fungsi - fungsi nya, jadi ane gak bakal,
 menjelaskan penerapan semua fungsi pada add on ini.**
 
+# PS
+jika dalam penerapan ada error yang fatal itu diluar tanggung jawab ane, jadi ane rankan backup dulu website dan database nya
+
 # Contact 
 WA: 081311243588 (sertakan nama nya)
 FB: https://www.facebook.com/mychemicalromance.rizky
